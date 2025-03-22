@@ -1,2 +1,2 @@
 # play-with-Cursor
-Cursorと遊ぶ
+Cursorで遊ぶ
